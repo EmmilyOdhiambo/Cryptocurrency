@@ -1,0 +1,179 @@
+
+.whole{
+    display: flex;
+}
+
+.navs a{
+    /* padding: 20px; */
+    color: white;
+    text-decoration: none;
+    margin-left: 40px;
+    gap: 55%;
+}
+header{
+    /* display: flex; */
+    margin-top: 6%;
+    padding-left: 30%;
+  
+}
+.but{
+    border-radius: 12px;
+    padding: 8px;background-color: lightgreen;
+}
+#one{
+    color: white;
+    font-size: 50px;
+   
+}
+#two{
+    color: forestgreen;
+    font-size: 50px; 
+}
+#three{
+    color: aqua;
+    font-size: 50px;
+}
+#four{
+    color: white;
+    font-size: 20px;
+}
+.int{
+    margin-top: 15%;
+    padding-left: 5%;
+}
+.but1{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: chartreuse;
+    font-size: 15px;
+    color: black;
+}
+.image{
+   padding-left: 60%;
+   margin-top: -45%;
+   width: 300px;
+   height: 200px;
+}
+body{
+    background-image: url(Event-Advert.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+#logo{
+    margin-top: 53%; 
+}
+.box{
+    width: 1100px;
+    height: 300px;
+    border: 1px solid gray;
+    padding-left: 7%;
+    background-color: black;
+    text-align: center;
+    /* display:inline-block; */
+}
+.page2{
+    display: flex;
+    margin-top: 37%;
+    gap: 10%;
+    padding-left: 5%;
+    font-size: 35px;
+    color: black;
+    background-color: greenyellow;
+}
+.buy{
+    display: flex;
+    margin-top: 8%;
+    gap: 25%;
+    padding-left: 2%;
+    font-size: 15px;
+    color: white;
+}
+table,tr,th,td{
+    /* border-style: ridge; */
+    border-spacing: 4px;
+    width: 100%;
+    border-color: rgb(51, 50, 50);
+}
+.page3{
+    display: flex;
+}  
+.table{
+    /* display: flex; */
+    margin-top: 5%;
+}  
+.page4{
+    display: flex;
+    padding-left: 5%;
+    padding-top: 10%;
+    font-size: large;
+}
+#invest{
+    color: gold;
+}
+#lorem{
+    font-size: 105%;
+    color: white;
+}
+#phones{
+    width: 300px;
+    height: 250px;
+}
+.page5{
+    display: flex;
+    gap: 10%;
+    margin-top: 10%;
+    background-color: black;
+}
+#head{
+    color: white;
+}
+.page6{
+    display: flex;
+    margin-top: 5%;
+    gap: 10%;
+    background-color: black;
+    padding-left: 6%;
+}
+#get{
+    color: chartreuse;
+    font-size: 16px;
+}
+#phonee{
+    background-color: black;
+}
+.but1{
+    border-radius: 10px;
+    padding: 25px;
+    background-color: chartreuse;
+    font-size: 15px;
+    color: black;
+}
+#read{
+    color: chartreuse;
+}
+#new{
+    color: white;
+}
+#log{
+    width: 100px;
+    height: 100px;
+}
+.buy{
+    border-radius: 10px;
+    padding: 15px;
+    background-color: pink;
+    color: black;
+
+}
+.outline{
+    display: flex;
+    gap: 13%;
+    font-size: 20px;
+    color: white;
+    background-color: black;
+    margin-top: 1%;
+}
+#email{
+    border-radius: 10px;
+    padding: 10px;
+}
